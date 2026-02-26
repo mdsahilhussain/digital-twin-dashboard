@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "south_west" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[ -9.5, 51.5 ], [ -8, 51.5 ], [ -8, 52.5 ], [ -9.5, 52.5 ], [ -9.5, 51.5 ]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "dublin" },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[ -6.5, 53 ], [ -6, 53 ], [ -6, 53.5 ], [ -6.5, 53.5 ], [ -6.5, 53 ]]]
+        }
+      }
+    ]
+  }
