@@ -1,0 +1,25 @@
+{
+    "metrics": {
+      "total_jobs": {
+        "value": 7351,
+        "page": 12,
+        "bbox": { "x": 120, "y": 340, "width": 420, "height": 60 },
+        "source_text": "Total employment reached 7,351 in 2022."
+      }
+    },
+    "regions": {
+      "south_west": {
+        "pure_play": 42,
+        "hybrid": 18
+      },
+      "dublin": {
+        "pure_play": 60,
+        "hybrid": 35
+      }
+    },
+    "projections": {
+      "2022": 7351,
+      "2025": 9000,
+      "2030": 17000
+    }
+  }
